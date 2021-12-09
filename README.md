@@ -26,6 +26,9 @@
   - Teste de Qui Quadrado
   - Regressão Linear e Logística
   - Correlação
+  
+  ####  📍      DICA DE CONTEÚDO
+   - Trilha da EstaTiDados: https://www.youtube.com/playlist?list=PLjdDBZW3EmXe6hO2Rt5Q9I5wzRZ7j7K8P
 
  ####    3) Programação
   - Estruturas de dados
