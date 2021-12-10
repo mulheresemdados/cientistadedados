@@ -29,6 +29,9 @@
   
   ####  📍      DICA DE CONTEÚDO
    - Trilha da EstaTiDados: https://www.youtube.com/playlist?list=PLjdDBZW3EmXe6hO2Rt5Q9I5wzRZ7j7K8P
+  
+  ####  📍      DICA DE LIVRO
+   - Estatística Prática para Cientista de Dados: https://www.amazon.com.br/gp/product/855080603X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=855080603X&linkCode=as2&tag=mulheresdados-20&linkId=16179a50c6411ff8161322b905abcaff
 
  ####    3) Programação
   - Estruturas de dados
@@ -42,6 +45,9 @@
   - Spark
   - SQL
   - Funções
+ 
+ ####  📍      DICA DE LIVRO
+  - Python para Análise de Dados: https://www.amazon.com.br/gp/product/8575226479/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=8575226479&linkCode=as2&tag=mulheresdados-20&linkId=06ab45745650f51e0146a5a20bf252b4
   
  ####    4) Data Wrangling
   - Extração de dados de sites, APIs, DBs
