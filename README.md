@@ -70,6 +70,9 @@
   - Redes Neurais
   - Análise de Sentimentos
   
+  ####  📍      DICA DE LIVRO
+  - Aprendizado de Máquina com Scikit-Learn, Keras & Tensorflow: https://www.amazon.com.br/gp/product/8550815489/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=8550815489&linkCode=as2&tag=mulheresdados-20&linkId=69c08f03ec87772e0216390930a3304f
+  
    ####    6) Data Visualization
   - Bibliotecas de dataviz (matplotlib, seaborn, plotly)
   - Dashboards
@@ -87,6 +90,11 @@
   - Git/Github
   - Inglês
   - Metodologias Ágeis
+  
+ ####  📍      DICA DE LIVRO
+  - Data Science do Zero: https://www.amazon.com.br/gp/product/8550811769/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=8550811769&linkCode=as2&tag=mulheresdados-20&linkId=c510419d59ba7adcc9a3fb491f0f5f82
+  - Data Science para Negócios: https://www.amazon.com.br/gp/product/8576089726/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=8576089726&linkCode=as2&tag=mulheresdados-20&linkId=fd1b5308d21e985b00940ed505224dcd
+
 
  
  </div>
