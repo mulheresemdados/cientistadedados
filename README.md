@@ -79,6 +79,9 @@
   - Ferramentas de dataviz (Power BI, Google Data Studio, Tableau)
   - Storytelling com dados
   - Reports com foco para perguntas de negócios
+  
+ ####  📍      DICA DE LIVRO
+ - Storytelling com dados: https://www.amazon.com.br/gp/product/8550804681/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=8550804681&linkCode=as2&tag=mulheresdados-20&linkId=d1bfb82fc2400d81056be3b3f71c1578
 
   ####    7) Matemática
   - Derivada, limite, integral
