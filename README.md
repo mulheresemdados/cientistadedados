@@ -31,7 +31,7 @@
    - Trilha da EstaTiDados: https://www.youtube.com/playlist?list=PLjdDBZW3EmXe6hO2Rt5Q9I5wzRZ7j7K8P
   
   ####  📍      DICA DE LIVRO
-   - Estatística Prática para Cientista de Dados: https://www.amazon.com.br/gp/product/855080603X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=855080603X&linkCode=as2&tag=mulheresdados-20&linkId=16179a50c6411ff8161322b905abcaff
+   - Estatística Prática para Cientista de Dados: https://amzn.to/33SUhqe
 
  ####    3) Programação
   - Estruturas de dados
@@ -47,7 +47,7 @@
   - Funções
  
  ####  📍      DICA DE LIVRO
-  - Python para Análise de Dados: https://www.amazon.com.br/gp/product/8575226479/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=8575226479&linkCode=as2&tag=mulheresdados-20&linkId=06ab45745650f51e0146a5a20bf252b4
+  - Python para Análise de Dados: https://amzn.to/3IkONng
   
  ####    4) Data Wrangling
   - Extração de dados de sites, APIs, DBs
@@ -71,7 +71,7 @@
   - Análise de Sentimentos
   
   ####  📍      DICA DE LIVRO
-  - Aprendizado de Máquina com Scikit-Learn, Keras & Tensorflow: https://www.amazon.com.br/gp/product/8550815489/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=8550815489&linkCode=as2&tag=mulheresdados-20&linkId=69c08f03ec87772e0216390930a3304f
+  - Aprendizado de Máquina com Scikit-Learn, Keras & Tensorflow:  https://amzn.to/3KwzyJG
   
    ####    6) Data Visualization
   - Bibliotecas de dataviz (matplotlib, seaborn, plotly)
@@ -81,7 +81,7 @@
   - Reports com foco para perguntas de negócios
   
  ####  📍      DICA DE LIVRO
- - Storytelling com dados: https://www.amazon.com.br/gp/product/8550804681/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=8550804681&linkCode=as2&tag=mulheresdados-20&linkId=d1bfb82fc2400d81056be3b3f71c1578
+ - Storytelling com dados: https://amzn.to/3nHlu6k
 
   ####    7) Matemática
   - Derivada, limite, integral
@@ -95,8 +95,9 @@
   - Metodologias Ágeis
   
  ####  📍      DICA DE LIVRO
-  - Data Science do Zero: https://www.amazon.com.br/gp/product/8550811769/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=8550811769&linkCode=as2&tag=mulheresdados-20&linkId=c510419d59ba7adcc9a3fb491f0f5f82
-  - Data Science para Negócios: https://www.amazon.com.br/gp/product/8576089726/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=8576089726&linkCode=as2&tag=mulheresdados-20&linkId=fd1b5308d21e985b00940ed505224dcd
+  - Data Science do Zero: https://amzn.to/3GLG9xN
+  - Data Science para Negócios: https://amzn.to/3FLpI3c
+
 
 
  
